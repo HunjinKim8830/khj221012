@@ -18,7 +18,10 @@
 </head>
 <body>
 <div class="container pt-3">
+<<<<<<< HEAD
 index	김훈진 안녕?
+index	김훈진 서정우선생님
+>>>>>>> branch 'main' of https://github.com/HunjinKim8830/khj221012.git
 </div>
 </body>
 </html>
